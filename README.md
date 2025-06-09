@@ -10,7 +10,7 @@ npm install @jesuferanmi/resource-transformer
 ## Usage
 ### Define a Resource
 ```ts
-import { BaseResource } from 'nestjs-resource-transformer';
+import { BaseResource } from '@jesuferanmi/resource-transformer';
 
 export class UserResource extends BaseResource {
   toJSON() {
@@ -26,7 +26,7 @@ export class UserResource extends BaseResource {
 
 ### Use in Controller
 ```ts
-import { ResourceCollection } from 'nestjs-resource-transformer';
+import { ResourceCollection } from '@jesuferanmi/resource-transformer';
 import { UserResource } from './user.resource';
 
 @Get()
