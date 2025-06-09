@@ -1,19 +1,14 @@
 {
-  "name": "nestjs-resource-transformer",
+  "name": "@jesuferanmi/resource-transformer",
   "version": "1.0.0",
+  "description": "Laravel-style API resources for NestJS apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist/**/*"],
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "typescript": "^5.8.3"
-  },
-  "files": [
-    "dist/**/*"
-  ]
+  "keywords": ["nestjs", "resource", "transformer", "laravel", "api", "formatter"],
+  "author": "Jesuferanmi",
+  "license": "MIT"
 }
