@@ -6,6 +6,7 @@ A utility to transform NestJS models/entities into Laravel-style API resources.
 
 ```bash
 npm install @jesuferanmi/resource-transformer
+```
 
 ## Usage
 ### Define a Resource
