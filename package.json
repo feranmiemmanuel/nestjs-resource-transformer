@@ -1,6 +1,6 @@
 {
   "name": "@jesuferanmi/resource-transformer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Laravel-style API resources for NestJS apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
