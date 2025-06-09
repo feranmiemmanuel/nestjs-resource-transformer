@@ -1,6 +1,6 @@
 # @jesuferanmi/resource-transformer
 
-A simple utility to transform NestJS models/entities into Laravel-style API resources.
+A utility to transform NestJS models/entities into Laravel-style API resources.
 
 ## 📦 Installation
 
